@@ -1,0 +1,11 @@
+a) A relação entre a LGPD e os Data Centers no Brasil
+Os data centers (centros de processamento de dados) estão enquadrados na conformidade com a LGPD (Lei Geral de Proteção de Dados). Eles representam um conjunto de dispositivos usados ​​para processar e armazenar dados, sistemas e aplicações. A estrutura normalmente contém servidores, bancos de dados, armazenamento e processamento de dados e outras ferramentas físicas e digitais. Além disso, uma das principais funções de um data center é garantir que os dados e sistemas nele hospedados estejam sempre acessíveis. Eles são responsáveis ​​por armazenar grandes quantidades de dados, inclusive dados protegidos pela LGPD. Portanto, os centros de processamento de dados devem tomar medidas de segurança adequadas para proteger as informações contra acesso não autorizado, etc.
+
+b) Formatos de arquivos de dados proprietários e abertos
+Os formatos abertos representam especificações técnicas de domínio público para descrever e armazenar dados sem restrições de uso. Garante acesso de longo prazo aos dados sem insegurança. Os formatos proprietários são definidos por interesses privados e existe o risco de perda de todas as informações contidas no arquivo. Os abertos tendem a ter maior longevidade porque são apoiados por uma comunidade de usuários mais ampla, garantindo acesso seguro e longevidade. Os proprietários estão sujeitos às decisões comerciais do fabricante, o que pode resultar na descontinuação ou em alterações incompatíveis. Portanto, vemos que os formatos abertos muitas vezes apresentam vantagens sobre os formatos proprietários.
+
+b.1) Forneça exemplos de formatos 
+Formatos abertos são "Comma-Separated Value"; "JavaScript Object Notation"; "PDF", etc. Formatos proprietários são "Microsoft Word"; "Adobe"; "Excel", etc.
+
+b.2) Discuta as implicações relacionadas a dados públicos 
+Os formatos abertos permitem que uma variedade de sistemas e aplicações diferentes acessem e utilizem dados sem a necessidade de software ou licenças específicas para visualizá-los ou manipulá-los, tornando os dados públicos mais acessíveis. Em formatos proprietários, os dados dependem de fornecedores de software para visualização e manipulação, podendo haver restrições de licenciamento e uso e até mesmo custos envolvidos, dificultando o acesso fácil aos dados públicos.
